@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "flexbox",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "flexbox"
+	}
+}
